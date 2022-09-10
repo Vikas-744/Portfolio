@@ -1,0 +1,43 @@
+{
+  "data": {
+    "user": {
+      "name": "G VIKAS",
+      "bio": "ABAP Developer @ HCL Technologies",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69007962?s=400&u=8bf3514e34b6251d95f4ed724263af3e3fa95690&v=4",
+      "location": "Bengaluru, India",
+      "pinnedItems": {
+        "totalCount": 4,
+        "edges": [
+          {
+            "node": {
+              "name": "Fabrication of Thin Film Solar Cells Using Metal Oxides",
+              "description": "Solar Cells are manufactured using RF Magnetron sputtering and Evaporation Techniques. To attain an efficiency of 11% several R & D’s has been performed. This type of cell reduces the fabrication cost and it is highly protective from external damages that occur due to wind, storms, and rainfall."
+            }
+          },
+          {
+            "node": {
+              "name": "Automatic Fire Detection & Alarming System",
+              "description": "Whenever fire accidents occur in any Industry the device automatically flushes the water from the existing tank to put down the fire and simultaneously it alerts the nearest Fire station until they respond."
+            }
+          },
+          {
+            "node": {
+              "name": "Bike Security System",
+              "description": "Bike Security system is deployed using a modem & tachometer. When the device recognizes the moment in the wheel without authorization this will immediately alert the authorized person by sending the tracking position. This helps in preventing the vehicle from being theft.",
+              "primaryLanguage": {
+                "name": "Python, C/C++",
+                "color": "#3572A5"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Design & Development of Super Market Application using JAVA",
+              "description": "Designed & Developed a Super Market Application using JAVA. A Basic version for the retailer to manage the stocks, vendor details, and tax billing information for the customers has been created."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

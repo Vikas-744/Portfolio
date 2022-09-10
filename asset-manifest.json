@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08ad1b39.chunk.css",
+    "main.js": "/static/js/main.9df7a2fc.chunk.js",
+    "main.js.map": "/static/js/main.9df7a2fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e48ab3bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e48ab3bf.js.map",
+    "static/js/2.95ee872d.chunk.js": "/static/js/2.95ee872d.chunk.js",
+    "static/js/2.95ee872d.chunk.js.map": "/static/js/2.95ee872d.chunk.js.map",
+    "static/css/3.39934f7b.chunk.css": "/static/css/3.39934f7b.chunk.css",
+    "static/js/3.9bbce758.chunk.js": "/static/js/3.9bbce758.chunk.js",
+    "static/js/3.9bbce758.chunk.js.map": "/static/js/3.9bbce758.chunk.js.map",
+    "static/css/4.521d0ad9.chunk.css": "/static/css/4.521d0ad9.chunk.css",
+    "static/js/4.93878ccb.chunk.js": "/static/js/4.93878ccb.chunk.js",
+    "static/js/4.93878ccb.chunk.js.map": "/static/js/4.93878ccb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4800c2c7b62713f774ddf3726ee47c99.js": "/precache-manifest.4800c2c7b62713f774ddf3726ee47c99.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.39934f7b.chunk.css.map": "/static/css/3.39934f7b.chunk.css.map",
+    "static/css/4.521d0ad9.chunk.css.map": "/static/css/4.521d0ad9.chunk.css.map",
+    "static/css/main.08ad1b39.chunk.css.map": "/static/css/main.08ad1b39.chunk.css.map",
+    "static/js/2.95ee872d.chunk.js.LICENSE.txt": "/static/js/2.95ee872d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/IISc_Logo.jpg": "/static/media/IISc_Logo.522bb625.jpg",
+    "static/media/Matlab_Logo.png": "/static/media/Matlab_Logo.5a305d71.png",
+    "static/media/NPTEL square.jpg": "/static/media/NPTEL square.8e388bc4.jpg",
+    "static/media/completed.png": "/static/media/completed.90de3a7a.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.c1a95f73.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.34409398.svg",
+    "static/media/search-paper.png": "/static/media/search-paper.0db39ac7.png",
+    "static/media/sistLogo.png": "/static/media/sistLogo.3510799b.png",
+    "static/media/trophy.png": "/static/media/trophy.23d1479d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e48ab3bf.js",
+    "static/js/2.95ee872d.chunk.js",
+    "static/css/main.08ad1b39.chunk.css",
+    "static/js/main.9df7a2fc.chunk.js"
+  ]
+}
